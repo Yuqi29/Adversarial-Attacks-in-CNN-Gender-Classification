@@ -1,6 +1,6 @@
 # Adversarial-Attacks-in-CNN-Gender-Classification
 
-This project build a gender classification Convolutional Neural Network (CNN), with dataset gathered from online search engine duckduckgo.com, backbone of resnet18, and trained from transfer learning. More details can be found in [the paper](https://github.com/Yuqi29/Adversarial-Attacks-in-CNN-Gender-Classification/blob/main/doc/Interpretation%20and%20Adversarial%20Attacks%20in%20CNN%20Gender%20Classification.pdf).
+This project build a gender classification Convolutional Neural Network (CNN), with dataset gathered from online search engine duckduckgo.com, backbone of resnet18, and trained from transfer learning. Model can be used on [HuggingFace website](https://huggingface.co/spaces/Yuqi/Gender_Classifier), more details can be found in [the paper](https://github.com/Yuqi29/Adversarial-Attacks-in-CNN-Gender-Classification/blob/main/doc/Interpretation%20and%20Adversarial%20Attacks%20in%20CNN%20Gender%20Classification.pdf).
 
 The training result shows a gender bias, and the curiosity starts here. An analysis and adversarial attack is then conducted to test the ability and safety of the network.
 
