@@ -8,7 +8,7 @@ The training result shows a gender bias, and the curiosity starts here. An analy
 
 Figure 1. Biased CNN gender classifier with wrong results
 
-Using interpretation tools of Local Interpretable Model-agnostic Explanations (LAME) and SHapley Additive exPlanation (SHAP), it reveals that for thie network, the main clue of femininity comes from long hair, makeup features and facial features, while the source of masculinity is based on beard, facial features and tattoos. This result shows a clear sterotype of gender. 
+Using interpretation tools of Local Interpretable Model-agnostic Explanations (LIME) and SHapley Additive exPlanation (SHAP), it reveals that for thie network, the main clue of femininity comes from long hair, makeup features and facial features, while the source of masculinity is based on beard, facial features and tattoos. This result shows a clear sterotype of gender. 
 
 <img width="281" alt="Capture d’écran 2024-03-11 à 9 26 37 AM" src="https://github.com/Yuqi29/Adversarial-Attacks-in-CNN-Gender-Classification/assets/92478707/52b69cfd-9283-4922-8587-c5462b376205">
 <img width="285" alt="Capture d’écran 2024-03-11 à 9 26 52 AM" src="https://github.com/Yuqi29/Adversarial-Attacks-in-CNN-Gender-Classification/assets/92478707/02520265-a428-4395-933e-c58786a707de">
